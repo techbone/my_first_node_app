@@ -1,0 +1,24 @@
+{
+  "name": "node_zero",
+  "version": "1.0.0",
+  "description": "My first node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techbone/my_first_node_app.git"
+  },
+  "keywords": [
+    "Node",
+    "Server",
+    "Express"
+  ],
+  "author": "Musa Muhammad Etudaye <musaawwaletudaye@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techbone/my_first_node_app/issues"
+  },
+  "homepage": "https://github.com/techbone/my_first_node_app#readme"
+}
